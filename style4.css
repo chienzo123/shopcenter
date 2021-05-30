@@ -19,6 +19,9 @@ body{
     border: none;
     color: aliceblue;
 }
+.active{
+    color: chocolate;
+}
 .footer-hr {
     background-color: aliceblue;
     border-style: none;

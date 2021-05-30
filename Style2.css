@@ -2,7 +2,9 @@ body{
     margin: auto;
     padding: auto;
 }
-
+.active{
+    color: chocolate;
+}
 .menu ul li a:hover{
     color: coral !important;
 }
